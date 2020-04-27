@@ -1,0 +1,1 @@
+url='https://xin.baidu.com/s?q={}&t=1'
